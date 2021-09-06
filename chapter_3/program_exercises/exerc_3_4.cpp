@@ -16,10 +16,10 @@ int main()
     cout << "Enter the number of seconds: ";
     long long seconds;
     cin >> seconds;
-    int days = seconds / SEC_TO_DAYS_FACTOR;
-    int hours = (seconds - days * SEC_TO_DAYS_FACTOR) / SEC_TO_HOUR_FACTOR;
-    int minutes = (seconds - days * SEC_TO_DAYS_FACTOR - hours * SEC_TO_HOUR_FACTOR) / SEC_TO_MINUTE_FACTOR;
-    int remain_seconds = seconds - days * SEC_TO_DAYS_FACTOR - hours * SEC_TO_HOUR_FACTOR
+    long days = seconds / SEC_TO_DAYS_FACTOR;
+    long hours = (seconds - days * SEC_TO_DAYS_FACTOR) / SEC_TO_HOUR_FACTOR;
+    long minutes = (seconds - days * SEC_TO_DAYS_FACTOR - hours * SEC_TO_HOUR_FACTOR) / SEC_TO_MINUTE_FACTOR;
+    long remain_seconds = seconds - days * SEC_TO_DAYS_FACTOR - hours * SEC_TO_HOUR_FACTOR
             - minutes * SEC_TO_MINUTE_FACTOR;
     cout << seconds << " seconds = " << days << " days, " << hours << " hours, "<< minutes << " minutes, "
          << remain_seconds << " seconds";
