@@ -40,3 +40,4 @@
 *.cmake
 cmake-build-debug/CMakeFiles/Makefile2
 *.marks
+cmake-build-debug/cubes
