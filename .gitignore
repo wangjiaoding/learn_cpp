@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+*.make
+*.cmake
+*.txt
+*.includecache
+*.internal
+*.make
+*.make
+*.cmake
+cmake-build-debug/CMakeFiles/Makefile2
+*.marks
