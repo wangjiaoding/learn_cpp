@@ -43,8 +43,6 @@ cmake-build-debug/CMakeFiles/Makefile2
 cmake-build-debug/cubes
 *.xml
 *.bin
-*.c
-*.cpp
 *.check_cache
 *.log
 cmake-build-debug/filefunc
