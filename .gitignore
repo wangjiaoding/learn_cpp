@@ -49,3 +49,4 @@ cmake-build-debug/filefunc
 *.cbp
 cmake-build-debug/Makefile
 cmake-build-debug/swaps
+cmake-build-debug
