@@ -54,3 +54,4 @@ add_executable(usestock0 chapter_10/program_lists/10.1-10.3/stock00.cpp chapter_
 add_executable(usestock1 chapter_10/program_lists/10.4-10.6/stock10.cpp chapter_10/program_lists/10.4-10.6/usestock2.cpp)
 add_executable(usestock2 chapter_10/program_lists/10.7-10.9/stock20.cpp chapter_10/program_lists/10.7-10.9/usestock2.cpp)
 add_executable(stacker chapter_10/program_lists/10.10-10.12/stack.cpp chapter_10/program_lists/10.10-10.12/stacker.cpp)
+add_executable(accttest chapter_10/program_exercises/exerc_10_1/account.cpp chapter_10/program_exercises/exerc_10_1/accttest.cpp)
