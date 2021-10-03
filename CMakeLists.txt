@@ -58,3 +58,4 @@ add_executable(accttest chapter_10/program_exercises/exerc_10_1/account.cpp chap
 add_executable(usetime0 chapter_11/program_lists/11.1-11.3/mytime0.cpp chapter_11/program_lists/11.1-11.3/usetime0.cpp)
 add_executable(usetime1 chapter_11/program_lists/11.4-11.6/mytime1.cpp chapter_11/program_lists/11.4-11.6/usetime1.cpp)
 add_executable(usetime2 chapter_11/program_lists/11.7-11.9/mytime2.cpp chapter_11/program_lists/11.7-11.9/usetime2.cpp)
+add_executable(usetime3 chapter_11/program_lists/11.10-11.12/mytime3.cpp chapter_11/program_lists/11.10-11.12/usetime3.cpp)
