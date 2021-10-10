@@ -61,3 +61,4 @@ add_executable(usetime2 chapter_11/program_lists/11.7-11.9/mytime2.cpp chapter_1
 add_executable(usetime3 chapter_11/program_lists/11.10-11.12/mytime3.cpp chapter_11/program_lists/11.10-11.12/usetime3.cpp)
 add_executable(stone chapter_11/program_lists/11.16-11.18/stonewt.cpp chapter_11/program_lists/11.16-11.18/stone.cpp)
 add_executable(stone1 chapter_11/program_lists/11.19-11.21/stonewt1.cpp chapter_11/program_lists/11.19-11.21/stone1.cpp)
+add_executable(vegnews chapter_12/program_lists/12.1-12.3/stringbad.cpp chapter_12/program_lists/12.1-12.3/vegnews.cpp)
