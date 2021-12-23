@@ -1,6 +1,6 @@
 /*
  * @Author: 王教鼎
- * @Date: 2021/12/19 11:33 下午
+ * @Date: 2021/12/16 16:54
  * @Description: 程序清单17.12
  */
 #include <iostream>
@@ -26,5 +26,6 @@ int main()
 
     cout << "Last value entered = " << input << endl;
     cout << "Sum = " << sum << endl;
+
     return 0;
 }
